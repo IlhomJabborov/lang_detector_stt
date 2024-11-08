@@ -1,0 +1,1 @@
+/home/ilhom/Documents/lang_det/lang-id-voxlingua107-ecapa/custom.py
